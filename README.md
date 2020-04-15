@@ -7,7 +7,7 @@ Practical implementation of of dynamic programming for a toy problem in OpenAI g
 This practical assignment consists of 6 parts:
 
 1. Iterative policy evaluation
-2. Determining \(q_{\pi}\) from \(v_{\pi}\)
+2. Determining the action-value function from the value function
 3. Policy improvement
 4. Policy iteration
 5. Truncated policy iteration
