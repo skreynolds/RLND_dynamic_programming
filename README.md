@@ -1,6 +1,6 @@
-<img src="https://lh3.googleusercontent.com/proxy/1Z36rKo8N_m8xGG6KqKF-gtWnw2XzpJ9Leo-hQTyUbALUCQ-mJN2H6nsFJUCS04I9rHBWOVbS8G3j5UpWFHHMIMn6Izv9GbpscUxc_faGg71j-ohnfd8G296E9z3" alt="Charles Darwin University - ENG720 Honours Thesis" width="200" />
+<img src="https://d20vrrgs8k4bvw.cloudfront.net/images/open-graph/udacity.png" width="200" />
 
-#RLND Dynamic Programming
+# RLND Dynamic Programming
 
 Practical implementation of of dynamic programming for a toy problem in OpenAI gym called Frozen Lake.
 
